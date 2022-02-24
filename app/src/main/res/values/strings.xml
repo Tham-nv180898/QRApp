@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QRApp</string>
+    <!--Bottom tabs activity-->
+    <string name="activity_bottom_tabs_scan_tab">Scan</string>
+    <string name="activity_bottom_tabs_create_tab">Create</string>
+    <string name="activity_bottom_tabs_history_tab">History</string>
+    <string name="activity_bottom_tabs_settings_tab">Settings</string>
+</resources>
