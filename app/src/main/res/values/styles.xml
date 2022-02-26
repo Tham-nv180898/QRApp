@@ -5,4 +5,8 @@
         <item name="android:textSize">@dimen/bottom_navigation_item_text_size</item>
         <item name="android:textStyle">bold</item>
     </style>
+
+    <style name="SeekbarTheme">
+        <item name="colorAccent">@color/white</item>
+    </style>
 </resources>
